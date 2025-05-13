@@ -1,0 +1,27 @@
+{
+  "name": "nodejs_works",
+  "version": "0.0.1",
+  "description": "A lightweight NodeJS project, just to understand this environment.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Simon-FOS/NodeJS-works.git"
+  },
+  "keywords": [
+    "framework",
+    "frontend",
+    "backend",
+    "server",
+    "nodeJS",
+    "npm"
+  ],
+  "author": "Simon-FOS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Simon-FOS/NodeJS-works/issues"
+  },
+  "homepage": "https://github.com/Simon-FOS/NodeJS-works#readme"
+}
